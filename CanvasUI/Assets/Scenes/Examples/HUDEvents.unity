@@ -1702,21 +1702,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '<b>Lorem ipsum </b>
+  m_Text: '<b>Student</b>
 
 
-    dolor sit amet, consetetur sadipscing elitr,
-    sed diam <color=red>nonumy</color> eirmod tempor invidunt ut labore et dolore
-    magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
-    et ea <color=yellow>rebum</color>. Stet clita kasd gubergren, no sea takimata
-    sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-    sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore
-    magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
-    et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-    dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-    clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
+    This is an simple example of adding code to a HUD
+    screen. The script "HUDController.cs" was added to the Canvas and implements
+    the behaviour. You can modify the "life", "magic" and "points" values of the
+    HUDController in the insector and see them get updated on the screen.'
 --- !u!222 &1667594022
 CanvasRenderer:
   m_ObjectHideFlags: 0
