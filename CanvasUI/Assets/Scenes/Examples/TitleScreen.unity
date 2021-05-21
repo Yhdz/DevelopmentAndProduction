@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 226271354}
   - component: {fileID: 226271353}
   m_Layer: 5
-  m_Name: Exit
+  m_Name: ExitButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -257,7 +257,7 @@ GameObject:
   - component: {fileID: 333002714}
   - component: {fileID: 333002713}
   m_Layer: 5
-  m_Name: Options
+  m_Name: OptionsButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -377,7 +377,7 @@ GameObject:
   - component: {fileID: 346494449}
   - component: {fileID: 346494448}
   m_Layer: 5
-  m_Name: TitleScreen
+  m_Name: TitleScreenPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -942,7 +942,7 @@ GameObject:
   - component: {fileID: 1991956687}
   - component: {fileID: 1991956686}
   m_Layer: 5
-  m_Name: StartGame
+  m_Name: StartGameButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
