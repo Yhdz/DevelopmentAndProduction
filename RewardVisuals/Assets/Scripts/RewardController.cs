@@ -36,7 +36,8 @@ public class RewardController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            GetComponent<Animator>().Play("RewardStartup");
+            Animator animator = GetComponent<Animator>();
+            animator.Play("RewardStartup");
         }
     }
 }

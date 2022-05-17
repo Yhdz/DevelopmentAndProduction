@@ -163,7 +163,7 @@ GameObject:
   - component: {fileID: 2088487010}
   - component: {fileID: 2088487008}
   m_Layer: 5
-  m_Name: Reward
+  m_Name: Reward_Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
